@@ -20,6 +20,10 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26DN0U3SqKDG2fTFe/giphy.gif"/>
+</div>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
