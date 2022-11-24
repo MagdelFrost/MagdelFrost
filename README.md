@@ -10,7 +10,11 @@
   <a href="https://t.me/magdelfrost">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-    
+
+  <a href="https://hh.ru/resume/2596ea80ff0744e2de0039ed1f54384d425230?hhtmFrom=resume_list">
+    <img src="https://img.shields.io/badge/hh.ru-red?style=for-the-badge&logo=Hetzner&logoColor=white" alt="HH Badge"/>
+  </a>
+
 </div>
 
 <div align="center"> 
@@ -21,37 +25,55 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26DN0U3SqKDG2fTFe/giphy.gif"/>
+  <img src="https://media.giphy.com/media/26DN0U3SqKDG2fTFe/giphy.gif" width="50%" />
 </div>
+
+### :knife: About Me :
+I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Republic :zany_face:
+
+- :computer: I have 1+ years of experience in back-end testing, also I have experience in automation testing REST and WEB.
+- :blue_book: In my free time, I do tasks on JavaRush, read tech articles, practicing art design.
+- Contact me: <a href="https://www.linkedin.com/in/savely-zhuravlev-8168261a9/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg" title="Selenide" alt="Selenide" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="RestAssured" alt="RestAssured" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleSQL" alt="OracleSQL" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" title="JIRA" alt="JIRA" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intellij Idea" alt="Intellij Idea" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg" title="Selenide" alt="Selenide" width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg" title="Selenoid" alt="Selenoid" width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" title="JUnit" alt="JUnit" width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="RestAssured" alt="RestAssured" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleSQL" alt="OracleSQL" width="80" height="80">&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker " width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" title="Gradle" alt="Gradle" width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" title="Allure TestOps" alt="Allure TestOps" width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" title="JIRA" alt="JIRA" width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" title="Slack" alt="Slack" width="80" height="80"/>&nbsp;
+  <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" title="Telegram" alt="Telegram" width="80" height="80"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="80" height="80"/>&nbsp;
 </div>
 
 ---
 
 ### 🌱 My Demo Projects :
-  - <a target="_blank" href="https://github.com/MagdelFrost/demo-project-112022.git">UI tests for javarush.com</a>&nbsp;
-  - <a target="_blank" href="https://github.com/MagdelFrost/demo-project-API-UI-112022.git">UI + API tests for demowebshop.tricentis.com</a>&nbsp;
-  - <a target="_blank" href="https://github.com/MagdelFrost/demo-project-112022.git">API tests for reqres.in</a>&nbsp;
+<h2>
+  - &nbsp; <img width="15%" src="images/javarush.jpg"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-112022.git">UI tests for javarush.com</a>
+</h2>
+<h2>
+  - &nbsp; <img width="15%" src="images/demowebshop.png"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-API-UI-112022.git">UI + API tests for demowebshop.tricentis.com</a>
+</h2>
+<h2>
+  - &nbsp; <img width="15%" src="images/reqresin.png"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-api-122022.git">API tests for reqres.in</a>
+</h2>
+
 
 ---
 ### :fire: My Stats :
