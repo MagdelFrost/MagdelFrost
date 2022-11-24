@@ -52,6 +52,7 @@ I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Repu
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleSQL" alt="OracleSQL" width="80" height="80">&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="80" height="80"/>&nbsp;
+  <img src="images/browserstack.svg" title="Browserstack" alt="Browserstack" width="80" height="80"/>&nbsp
   <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker " width="80" height="80"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" title="Gradle" alt="Gradle" width="80" height="80"/>&nbsp;
@@ -74,6 +75,9 @@ I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Repu
 </h2>
 <h2>
   - &nbsp; <img width="15%" src="images/reqresin.png"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-api-122022.git">API tests for reqres.in</a>
+</h2>
+<h2>
+  - &nbsp; <img width="15%" src="images/wiki.jpeg"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-mobile.git">Tests for Wikipedia Mobile App</a>
 </h2>
 
 
