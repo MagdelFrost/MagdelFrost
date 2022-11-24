@@ -49,6 +49,10 @@
 ---
 
 ### 🌱 My Demo Projects :
+  - <a target="_blank" href="https://github.com/MagdelFrost/demo-project-112022.git">UI tests for javarush.com</a>&nbsp;
+  - <a target="_blank" href="https://github.com/MagdelFrost/demo-project-API-UI-112022.git">UI + API tests for demowebshop.tricentis.com</a>&nbsp;
+  - <a target="_blank" href="https://github.com/MagdelFrost/demo-project-112022.git">API tests for reqres.in</a>&nbsp;
+
 ---
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MagdelFrost&theme=tokyonight)
