@@ -17,14 +17,11 @@
 
 </div>
 
-<div align="center"> 
-<h1>
-  HI GUYS
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="left">
+  <img src="images/header.png"/>
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://media.giphy.com/media/26DN0U3SqKDG2fTFe/giphy.gif" width="50%" />
 </div>
 
