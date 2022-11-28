@@ -17,15 +17,16 @@
 
 </div>
 
-<div align="left">
+<div align="center">
   <img src="images/header.png"/>
 </div>
 
-<div align="right">
+<div align="center">
   <img src="https://media.giphy.com/media/26DN0U3SqKDG2fTFe/giphy.gif" width="50%" />
 </div>
 
 ### :knife: About Me :
+<div>
 I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Republic :zany_face:
 
 - :computer: I have 1+ years of experience in back-end testing, also I have experience in automation testing REST and WEB.
@@ -35,7 +36,8 @@ I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Repu
   </a> &nbsp; or contact me: &nbsp; <a href="https://www.linkedin.com/in/savely-zhuravlev-8168261a9/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
----
+
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
