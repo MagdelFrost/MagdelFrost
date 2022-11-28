@@ -66,18 +66,14 @@ I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Repu
 ---
 
 ### 🌱 My Demo Projects :
-<h2>
-  - &nbsp; <img width="15%" src="images/javarush.jpg"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-112022.git">UI tests for javarush.com</a>
-</h2>
-<h2>
-  - &nbsp; <img width="15%" src="images/demowebshop.png"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-API-UI-112022.git">UI + API tests for demowebshop.tricentis.com</a>
-</h2>
-<h2>
-  - &nbsp; <img width="15%" src="images/reqresin.png"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-api-122022.git">API tests for reqres.in</a>
-</h2>
-<h2>
-  - &nbsp; <img width="15%" src="images/wiki.jpeg"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-mobile.git">Tests for Wikipedia Mobile App</a>
-</h2>
+
+- <h2> &nbsp; <img width="15%" src="images/javarush.jpg"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-112022.git">UI tests for javarush.com</a> </h2>
+
+- <h2> &nbsp; <img width="15%" src="images/demowebshop.png"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-API-UI-112022.git">UI + API tests for demowebshop.tricentis.com</a> </h2>
+
+- <h2> &nbsp; <img width="15%" src="images/reqresin.png"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-api-122022.git">API tests for reqres.in</a> </h2>
+
+- <h2> &nbsp; <img width="15%" src="images/wiki.jpeg"> &nbsp; <a target="_blank" href="https://github.com/MagdelFrost/demo-project-mobile.git">Tests for Wikipedia Mobile App</a> </h2>
 
 
 ---
