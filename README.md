@@ -50,6 +50,7 @@ I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Repu
   <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" title="JUnit" alt="JUnit" width="80" height="80"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="RestAssured" alt="RestAssured" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp; 
+  <img src="images/kafka.svg" title="Apache Kafka" alt="Apache Kafka" width="80" height="80"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleSQL" alt="OracleSQL" width="80" height="80">&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="80" height="80"/>&nbsp;
   <img src="images/browserstack.svg" title="Browserstack" alt="Browserstack" width="80" height="80"/>&nbsp
