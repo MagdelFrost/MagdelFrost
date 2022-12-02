@@ -43,6 +43,7 @@ I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Repu
 <div>
   <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intellij Idea" alt="Intellij Idea" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+  <img src="images/scala.svg" title="Scala" alt="Scala" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="80" height="80"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg" title="Selenide" alt="Selenide" width="80" height="80"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg" title="Selenoid" alt="Selenoid" width="80" height="80"/>&nbsp;
@@ -55,10 +56,11 @@ I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Repu
   <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker " width="80" height="80"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" title="Gradle" alt="Gradle" width="80" height="80"/>&nbsp;
+  <img src="images/maven.svg" title="Maven Apache" alt="Maven Apache" height="80"/>&nbsp
   <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="80" height="80"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" title="Allure TestOps" alt="Allure TestOps" width="80" height="80"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" title="JIRA" alt="JIRA" width="80" height="80"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" title="Slack" alt="Slack" width="80" height="80"/>&nbsp;
+  <img src="images/Slack.svg" title="Slack" alt="Slack" width="80" height="80"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" title="Telegram" alt="Telegram" width="80" height="80"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="80" height="80"/>&nbsp;
 </div>
