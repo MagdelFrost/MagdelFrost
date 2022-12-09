@@ -41,28 +41,29 @@ I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Repu
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intellij Idea" alt="Intellij Idea" width="80" height="80"/>&nbsp;
+  <img src="images/idea.svg" title="Intellij Idea" alt="Intellij Idea" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
   <img src="images/scala.svg" title="Scala" alt="Scala" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="80" height="80"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenide.svg" title="Selenide" alt="Selenide" width="80" height="80"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg" title="Selenoid" alt="Selenoid" width="80" height="80"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" title="JUnit" alt="JUnit" width="80" height="80"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="RestAssured" alt="RestAssured" width="80" height="80"/>&nbsp;
+  <img src="images/selenide.svg" title="Selenide" alt="Selenide" width="80" height="80"/>&nbsp;
+  <img src="images/selenoid.svg" title="Selenoid" alt="Selenoid" width="80" height="80"/>&nbsp;
+  <img src="images/junit5.svg" title="JUnit" alt="JUnit" width="80" height="80"/>&nbsp;
+  <img src="images/rest.svg" title="RestAssured" alt="RestAssured" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp; 
   <img src="images/kafka.svg" title="Apache Kafka" alt="Apache Kafka" width="80" height="80"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleSQL" alt="OracleSQL" width="80" height="80">&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="80" height="80"/>&nbsp;
+  <img src="images/appium.svg" title="Appium" alt="Appium" width="80" height="80"/>&nbsp
   <img src="images/browserstack.svg" title="Browserstack" alt="Browserstack" width="80" height="80"/>&nbsp
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="80" height="80"/>&nbsp;
+  <img src="images/jenkins.svg" title="Jenkins" alt="Jenkins" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker " width="80" height="80"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" title="Gradle" alt="Gradle" width="80" height="80"/>&nbsp;
+  <img src="images/gradle.svg" title="Gradle" alt="Gradle" width="80" height="80"/>&nbsp;
   <img src="images/maven.svg" title="Maven Apache" alt="Maven Apache" height="80"/>&nbsp
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="80" height="80"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" title="Allure TestOps" alt="Allure TestOps" width="80" height="80"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" title="JIRA" alt="JIRA" width="80" height="80"/>&nbsp;
+  <img src="images/allure.svg" title="Allure Report" alt="Allure Report" width="80" height="80"/>&nbsp;
+  <img src="images/allure-test-ops.svg" title="Allure TestOps" alt="Allure TestOps" width="80" height="80"/>&nbsp;
+  <img src="images/jira.svg" title="JIRA" alt="JIRA" width="80" height="80"/>&nbsp;
   <img src="images/slack.svg" title="Slack" alt="Slack" width="80" height="80"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Telegram.svg" title="Telegram" alt="Telegram" width="80" height="80"/>&nbsp
+  <img src="images/telegram.svg" title="Telegram" alt="Telegram" width="80" height="80"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="80" height="80"/>&nbsp;
 </div>
 
