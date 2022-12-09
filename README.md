@@ -25,7 +25,7 @@
   <img src="https://media.giphy.com/media/26DN0U3SqKDG2fTFe/giphy.gif" width="50%" />
 </div>
 
-### :knife: About Me :
+### :fire: About Me :
 <div>
 I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Republic :zany_face:
 
