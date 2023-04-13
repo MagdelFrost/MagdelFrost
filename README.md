@@ -29,7 +29,7 @@
 <div>
 I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Republic :zany_face:
 
-- :computer: I have 1+ years of experience in back-end testing, also I have experience in automation testing API and WEB.
+- :computer: I have 2+ years of experience in back-end testing, also I have experience in automation testing API and WEB.
 - :blue_book: In my free time, I do tasks on JavaRush, read tech articles, practicing art design.
 - Check out my resume: &nbsp; <a href="https://hh.ru/resume/2596ea80ff0744e2de0039ed1f54384d425230?hhtmFrom=resume_list">
     <img src="https://img.shields.io/badge/hh.ru-red?style=for-the-badge&logo=Hetzner&logoColor=white" alt="HH Badge"/>
