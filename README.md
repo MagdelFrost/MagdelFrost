@@ -62,9 +62,6 @@ I am a QA Engineer / Java Developer from Moscow, currently living in Kyrgyz Repu
   <img src="images/allure.svg" title="Allure Report" alt="Allure Report" width="80" height="80"/>&nbsp;
   <img src="images/allure-test-ops.svg" title="Allure TestOps" alt="Allure TestOps" width="80" height="80"/>&nbsp;
   <img src="images/jira.svg" title="JIRA" alt="JIRA" width="80" height="80"/>&nbsp;
-  <img src="images/slack.svg" title="Slack" alt="Slack" width="80" height="80"/>&nbsp;
-  <img src="images/telegram.svg" title="Telegram" alt="Telegram" width="80" height="80"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="80" height="80"/>&nbsp;
 </div>
 
 ---
