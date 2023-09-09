@@ -1,4 +1,5 @@
 <div id="header" align="center"> 
+  
   <a href="https://www.linkedin.com/in/savely-zhuravlev-8168261a9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,11 +11,7 @@
   <a href="https://t.me/magdelfrost">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-
-  <a href="https://hh.ru/resume/2596ea80ff0744e2de0039ed1f54384d425230?hhtmFrom=resume_list">
-    <img src="https://img.shields.io/badge/hh.ru-red?style=for-the-badge&logo=Hetzner&logoColor=white" alt="HH Badge"/>
-  </a>
-
+  
 </div>
 
 <div align="center">
