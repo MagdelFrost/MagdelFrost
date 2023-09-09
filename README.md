@@ -28,9 +28,9 @@ I am a QA Engineer / Java Developer from Kyrgyz Republic
 
 - :computer: I have 2+ years of experience in back-end developement, also I have experience in automation testing API and WEB.
 - :blue_book: In my free time, I do tasks on JavaRush, read tech articles, practicing art design.
-- Check out my resume: &nbsp; <a href="https://hh.ru/resume/2596ea80ff0744e2de0039ed1f54384d425230?hhtmFrom=resume_list">
-    <img src="https://img.shields.io/badge/hh.ru-red?style=for-the-badge&logo=Hetzner&logoColor=white" alt="HH Badge"/>
-  </a> &nbsp; or contact me: &nbsp; <a href="https://www.linkedin.com/in/savely-zhuravlev-8168261a9/">
+- 📫 How to reach me: &nbsp;  <a href="https://t.me/magdelfrost">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a> &nbsp; or &nbsp; <a href="https://www.linkedin.com/in/savely-zhuravlev-8168261a9/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
