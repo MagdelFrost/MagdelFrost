@@ -22,12 +22,12 @@
   <img src="https://media.giphy.com/media/26DN0U3SqKDG2fTFe/giphy.gif" width="50%" />
 </div>
 
-### :fire: About Me :
+### 🐍 About Me :
 <div>
 I am a QA Engineer / Java Developer from Kyrgyz Republic
 
-- :computer: I have 2+ years of experience in back-end developement, also I have experience in automation testing API and WEB.
-- :blue_book: In my free time, I do tasks on JavaRush, read tech articles, practicing art design.
+- 💻 I have 2+ years of experience in back-end developement, also I have experience in automation testing API and WEB.
+- 📘 In my free time, I do tasks on JavaRush, read tech articles, practicing art design.
 - 📫 How to reach me: &nbsp;  <a href="https://t.me/magdelfrost">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a> &nbsp; or &nbsp; <a href="https://www.linkedin.com/in/savely-zhuravlev-8168261a9/">
@@ -36,7 +36,7 @@ I am a QA Engineer / Java Developer from Kyrgyz Republic
 
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### 🔨 Languages and Tools :
 <div>
   <img src="images/idea.svg" title="Intellij Idea" alt="Intellij Idea" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
@@ -46,6 +46,7 @@ I am a QA Engineer / Java Developer from Kyrgyz Republic
   <img src="images/selenoid.svg" title="Selenoid" alt="Selenoid" width="80" height="80"/>&nbsp;
   <img src="images/junit5.svg" title="JUnit" alt="JUnit" width="80" height="80"/>&nbsp;
   <img src="images/rest.svg" title="RestAssured" alt="RestAssured" width="80" height="80"/>&nbsp;
+  <img src="images/swagger.svg" title="Swagger" alt="Swagger" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp; 
   <img src="images/kafka.svg" title="Apache Kafka" alt="Apache Kafka" width="80" height="80"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleSQL" alt="OracleSQL" width="80" height="80">&nbsp; 
@@ -54,11 +55,15 @@ I am a QA Engineer / Java Developer from Kyrgyz Republic
   <img src="images/browserstack.svg" title="Browserstack" alt="Browserstack" width="80" height="80"/>&nbsp
   <img src="images/jenkins.svg" title="Jenkins" alt="Jenkins" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker " width="80" height="80"/>&nbsp;
+  <img src="images/rancher.svg" title="Rancher" alt="Rancher " width="80" height="80"/>&nbsp;
   <img src="images/gradle.svg" title="Gradle" alt="Gradle" width="80" height="80"/>&nbsp;
   <img src="images/maven.svg" title="Maven Apache" alt="Maven Apache" height="80"/>&nbsp
+  <img src="images/gitlab.svg" title="GitLab" alt="GitLab" height="80"/>&nbsp
   <img src="images/allure.svg" title="Allure Report" alt="Allure Report" width="80" height="80"/>&nbsp;
   <img src="images/allure-test-ops.svg" title="Allure TestOps" alt="Allure TestOps" width="80" height="80"/>&nbsp;
   <img src="images/jira.svg" title="JIRA" alt="JIRA" width="80" height="80"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/353597/confluence.svg" title="Confluence" alt="Confluence" width="80" height="80"/>&nbsp;
+  <img src="https://marketplace-cdn.atlassian.com/files/3409a9fe-a781-48ae-a96d-0141a1ec509e" title="Zephyr" alt="Zephyr" width="80" height="80"/>&nbsp;
 </div>
 
 ---
