@@ -26,7 +26,7 @@
 <div>
 I am a QA Engineer / Java Developer from Kyrgyz Republic
 
-- 💻 I have 2+ years of experience in back-end developement, also I have experience in automation testing API and WEB.
+- 💻 I have 5+ years of experience in back-end developement, also I have experience in automation testing API and WEB.
 - 📘 In my free time, I do tasks on JavaRush, read tech articles, practicing art design.
 - 📫 How to reach me: &nbsp;  <a href="https://t.me/magdelfrost">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
